@@ -1,0 +1,14 @@
+button {
+    padding: 5px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.btn-1 {
+    background-color: black;
+    color: white;
+}
+
+.btn-2 {
+    background-color: yellow;
+}

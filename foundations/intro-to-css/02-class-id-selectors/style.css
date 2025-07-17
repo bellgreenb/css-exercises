@@ -1,0 +1,17 @@
+p {
+    background-color: pink;
+}
+
+.bigger, #two {
+    font-size: 30px;
+}
+
+#one {
+    font-size: 50px;
+    color: blue;
+}
+
+#two {
+    font-weight: bold;
+    background-color: lightgreen;
+}
